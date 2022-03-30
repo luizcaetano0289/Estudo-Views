@@ -1,0 +1,16 @@
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\bin\Debug\netstandard2.0\App00_ControleXF.deps.json
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\bin\Debug\netstandard2.0\App00_ControleXF.dll
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\bin\Debug\netstandard2.0\ref\App00_ControleXF.dll
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\bin\Debug\netstandard2.0\App00_ControleXF.pdb
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App00_ControleXF.csproj.AssemblyReference.cache
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App00_ControleXF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Menu\Master.xaml.g.cs
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App00_ControleXF.AssemblyInfoInputs.cache
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App00_ControleXF.AssemblyInfo.cs
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App00_ControleXF.csproj.CoreCompileInputs.cache
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App00_ControleXF.dll
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\ref\App00_ControleXF.dll
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\App00_ControleXF.pdb
