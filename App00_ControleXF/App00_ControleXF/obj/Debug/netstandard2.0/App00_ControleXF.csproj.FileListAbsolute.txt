@@ -17,3 +17,4 @@ C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\o
 C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\ActivityIndicatorPage.xaml.g.cs
 C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\ProgressBarPage.xaml.g.cs
 C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\BoxViewPage.xaml.g.cs
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\LabelPage.xaml.g.cs
