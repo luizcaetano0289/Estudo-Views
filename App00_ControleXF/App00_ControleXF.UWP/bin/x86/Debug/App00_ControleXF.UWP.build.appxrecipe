@@ -169,6 +169,9 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\pushbutton.png">
+      <PackagePath>pushbutton.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
