@@ -44,5 +44,9 @@ namespace App00_ControleXF.Menu
         {
             Detail = new Controles.EntryEditorPage();
         }
+        private void GoDatePickerPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.DatePickerPage();
+        }
     }
 }

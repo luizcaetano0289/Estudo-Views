@@ -20,3 +20,4 @@ C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\o
 C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\LabelPage.xaml.g.cs
 C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\ButtonPage.xaml.g.cs
 C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\EntryEditorPage.xaml.g.cs
+C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF\obj\Debug\netstandard2.0\Controles\DatePickerPage.xaml.g.cs
