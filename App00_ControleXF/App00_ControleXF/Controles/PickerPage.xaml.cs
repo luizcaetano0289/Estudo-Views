@@ -16,5 +16,11 @@ namespace App00_ControleXF.Controles
         {
             InitializeComponent();
         }
+
+        private void ActionMudarIndex(object sender, EventArgs args)
+        {
+            Picker obj = (Picker)sender;
+            Resultado.Text = obj.SelectedItem.ToString() + " - " + obj.SelectedIndex.ToString();
+        }
     }
 }
