@@ -172,6 +172,21 @@
     <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\pushbutton.png">
       <PackagePath>pushbutton.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\Imagem\usb.scale-100.jpg">
+      <PackagePath>Imagem\usb.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\Imagem\usb.scale-125.jpg">
+      <PackagePath>Imagem\usb.scale-125.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\Imagem\usb.scale-150.jpg">
+      <PackagePath>Imagem\usb.scale-150.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\Imagem\usb.scale-200.jpg">
+      <PackagePath>Imagem\usb.scale-200.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\Imagem\usb.scale-400.jpg">
+      <PackagePath>Imagem\usb.scale-400.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\source\repos\App00_ControleXF\App00_ControleXF\App00_ControleXF.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

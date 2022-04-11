@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\usb.jpg" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\App00_ControleXF\App00_ControleXF.csproj">
       <Project>{33E9D197-D879-480A-887A-6DD7E8F38B94}</Project>
@@ -92,6 +94,21 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\pushbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-ldpi\usb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\usb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\usb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\usb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\usb.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
